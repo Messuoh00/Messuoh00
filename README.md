@@ -11,26 +11,20 @@ I'm an enthusiastic Master's student in Cybersecurity With a Bachelor's in Softw
 ## Projects % internship
 Here are some of my notable projects:
 
+- Malware creation (DLL injection using a trojan):
+    - Created a convincing user interface and installation process with Inno Setup, embedding malicious scripts and binaries alongside legitimate Notepad++ files.
+    - Integrated the trojan code written in C++ within the installer, programmed to execute upon installation completion to inject malicious payloads into explorer.exe.
+    - Employed WinReg techniques, such as Juicy Potato, to exploit registry settings and impersonate privileged accounts, bypassing security measures and gaining elevated system access.
+      
+- Development of end-to-end incident response:
+    - Tested multiple attack vectors and simulated realistic incident scenarios using tools like Metasploit and Nmap. Designed incident architecture to effectively contain and eradicate threats.
+    - Traced Advanced Persistent Threat (APT) groups and analyzed general Tactics, Techniques, and Procedures (TTPs).
 
-- [Internship's First Deployment through AWS](https://staging.d3szjp8z47p9eo.amplifyapp.com/):
-    - Developed a robust consent verification system using AWS Lambda, API Gateway, and Amplify, integrating Whisper Tiny and ML algorithms to transcribe audio, analyze user consent, and ensure accurate compliance checks.
-- [Internship's Second Deployment through AWS](https://staging.d1apl3a9wobv5h.amplifyapp.com/):
-    - Built a scalable speaker diarization pipeline leveraging AWS Lambda, SQS, and S3, incorporating PyAnnote models to detect, segment, and analyze speakers in audio files, significantly enhancing audio processing workflows for production use.
 
-
-- [Paris Olympics EDA](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Paris_EDA.ipynb):
-    - Performed a comprehensive exploratory data analysis on the Paris 2024 Olympic Games, analyzing athlete performance, event schedules, and key patterns. Created detailed visualizations and extracted actionable insights using Python libraries such as Pandas, Matplotlib, and Seaborn.
-
-- [Explanatory Data Analysis Pipeline Project](https://nbviewer.org/github/issaakee/machine_learning/blob/main/EDA.ipynb):
-    - For this project, I conducted exploratory data analysis (EDA) on a publicly available dataset from Kaggle. Given my deep interest in football, I analyzed the dataset, covering necessary steps, including business context, data exploration, preprocessing, and a thorough EDA, followed by a discussion on the strengths and limitations of the analysis.
-- [end-to-end Machine Learning Pipeline](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb):
-    - I developed an end-to-end machine-learning pipeline for this project using a publicly available car dataset from Kaggle. The pipeline covered data collection, preprocessing, exploration, feature engineering, model training, and assessment and concluded with insights drawn from the analysis.
-
-- [Sign Language images Prediction](https://nbviewer.org/github/issaakee/Deep-Learning/blob/main/image_Classification/Image%20Classification%20Project.ipynb):
-    - I developed a model to classify ASL hand signs using the Sign Language MNIST dataset. The process included data loading, preprocessing, augmentation, and exploration. Various models and hyperparameter configurations were experimented with, and the performance was evaluated using confusion matrices and training history plots.
-    
--  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/NLP.ipynb):
-    - In this task, I developed an NLP system to identify emotions in Twitter posts using the "Emotions" dataset from Kaggle. The process included preprocessing the dataset, and cleaning the text data. Various models were compared and hyperparameters tuned. The results were evaluated using accuracy plots, confusion matrices, and word clouds, leading to a final discussion of the system's performance.
+- Project management web application:
+    - lead and managed a team of 4 students.
+    - Developed new admin panel, which improved internal operating efficiency by over 40%.
+    - Rebuilt entire website with up to date technologies and frameworks.
 
 ## CERTIFICATION & WORKSHOPS
 
