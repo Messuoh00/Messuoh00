@@ -32,8 +32,21 @@ Here are some of my notable projects:
 -  [Emotions text Prediction](https://nbviewer.org/github/issaakee/machine_learning/blob/main/NLP.ipynb):
     - In this task, I developed an NLP system to identify emotions in Twitter posts using the "Emotions" dataset from Kaggle. The process included preprocessing the dataset, and cleaning the text data. Various models were compared and hyperparameters tuned. The results were evaluated using accuracy plots, confusion matrices, and word clouds, leading to a final discussion of the system's performance.
 
+## CERTIFICATION & WORKSHOPS
 
-## About me other than Cyber Security?
+-KPMG Workshop on Cybersecurity Auditing and Compliance
+    -Examined vulnerabilities in client systems, observed how experts diagnosed and mitigated these issues.
+    -Participated in discussions on common security problems faced by clients
+
+-Ernst & Young BSI IT Baseline Protection Training							        
+    -Learning how to conduct a baseline security check using BSI standards with Practical exercises 
+    -Developing security policies, guidelines, and procedures tailored to organizational needs.
+    
+- [A/B Testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/aa0c4d427ae13059c2486a7ee6e9380170a4a8d9?raw=1)
+- [ARIMA Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/f242899e5ecae71fdcb921407b33607e530ebe73?raw=1)
+  
+  
+##other things about me
 
 - Bachelor’s  degree with a bachelor’s thesis with sonatrach the biggest coompany in algeria
     - I studied information systems and software engineering at the Université des Sciences et de la Technologie Houari Boumediene  for 3 years and did my thesis with sonatrach.
@@ -51,14 +64,6 @@ Here are some of my notable projects:
 - Online Freelancing
     - While learning new skills and getting certificates, I worked as a freelance developer on Fiverr
       
-- CERTIFICATION & WORKSHOPS
-    -KPMG Workshop on Cybersecurity Auditing and Compliance
-      -Examined vulnerabilities in client systems, observed how experts diagnosed and mitigated these issues.
-      -Participated in discussions on common security problems faced by clients
-    -Ernst & Young BSI IT Baseline Protection Training							        
-      -Learning how to conduct a baseline security check using BSI standards with Practical exercises 
-      -Developing security policies, guidelines, and procedures tailored to organizational needs.
-  
 - Skills
   - Security: SQLmap, Nmap, MsfConsole, Burp Suite, Wireshark, Metasploit, Postman
   - Programming Languages: Java, Python, PHP, HTML, CSS, JavaScript, C/C++, Bash
