@@ -19,8 +19,7 @@ Here are some of my notable projects:
 - Development of end-to-end incident response:
     - Tested multiple attack vectors and simulated realistic incident scenarios using tools like Metasploit and Nmap. Designed incident architecture to effectively contain and eradicate threats.
     - Traced Advanced Persistent Threat (APT) groups and analyzed general Tactics, Techniques, and Procedures (TTPs).
-
-
+  
 - Project management web application:
     - lead and managed a team of 4 students.
     - Developed new admin panel, which improved internal operating efficiency by over 40%.
